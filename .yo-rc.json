@@ -1,0 +1,43 @@
+{
+  "generator-jhipster": {
+    "applicationType": "microservice",
+    "gitCompany": "",
+    "baseName": "UssdAdapter",
+    "packageName": "com.ft",
+    "packageFolder": "com/ft",
+    "serverPort": 8081,
+    "serviceDiscoveryType": false,
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "no",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "no",
+    "devDatabaseType": "no",
+    "prodDatabaseType": "no",
+    "searchEngine": false,
+    "enableSwaggerCodegen": "true",
+    "messageBroker": false,
+    "buildTool": "maven",
+    "useSass": false,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "enableTranslation": false,
+    "nativeLanguage": "en",
+    "languages": [
+      "en"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "5.8.1",
+    "jwtSecretKey": "MzFkMGU4YzRhNWI2ODg4MWYxMmRiYTRjYmRkYmM3M2FhZTQ5MDk3NzI0OTJjZWZmZDlmNTQ3NTgwNWQyOGVhNzRjZGI1NjliYzk0YTQ2OTdkOTM0OGRkYjY4MjY5MjM5OWVjNjc2NmZlYWZiYWFhNzA2NDg4ZjcxM2M5NjBjN2Y=",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "skipClient": true,
+    "skipUserManagement": true
+  },
+  "git-provider": "GitHub",
+  "git-company": "foxtechvn",
+  "repository-name": "ussdAdapter"
+}
